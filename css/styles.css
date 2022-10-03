@@ -9,6 +9,10 @@ html {
 }
 
 .header {
+  background-color: white;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
