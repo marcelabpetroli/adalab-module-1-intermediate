@@ -53,6 +53,7 @@ html {
   color: #ffffff;
   text-align: center;
   margin: 170px 50px 200px 50px;
+  text-transform: capitalize;
 }
 
 @media screen and (min-width: 768px) {
