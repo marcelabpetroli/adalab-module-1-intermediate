@@ -1,4 +1,4 @@
-# Adalab Creating Diversisity
+# Creating Digital Diversity
 
 This web was created for the intermediate evaluation of the HTML & CSS Module of Adalab's Web Development Bootcamp.
 
